@@ -1,0 +1,62 @@
+body
+{
+
+}
+.main-Head
+{
+    width: max-content;
+    line-height: 1;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+.head-visual
+{
+    margin-left: auto;
+    margin-right: auto;
+    horiz-align: center;
+    text-shadow:
+            -0   -1px 2px #FF5BC5,
+            0   -1px 2px #FF5BC5,
+            -0    1px 2px #FF5BC5,
+            0    1px 2px #FF5BC5,
+            -1px -0   2px #FF5BC5,
+            1px -0   2px #FF5BC5,
+            -1px  0   2px #FF5BC5,
+            1px  0   2px #FF5BC5,
+            -1px -1px 2px #FF5BC5,
+            1px -1px 2px #FF5BC5,
+            -1px  1px 2px #FF5BC5,
+            1px  1px 2px #FF5BC5,
+            -1px -1px 2px #FF5BC5,
+            1px -1px 2px #FF5BC5,
+            -1px  1px 2px #FF5BC5,
+            1px  1px 2px #FF5BC5;
+    border: 6px solid transparent;
+    background: #f9f;
+    padding:20px 80px 20px 80px;
+    border-image: linear-gradient(#ff5ef5,#fcf);
+    -moz-border-image: -moz-linear-gradient(#ff5ef5,#fcf);
+    -webkit-border-image: -webkit-linear-gradient(#ff5ef5,#fcf);
+    border-image-slice: 1;
+}
+.description
+{
+    margin: 0;
+    text-shadow:
+            -0   -1px 1px #FC80CF,
+            0   -1px 1px #FC80CF,
+            -0    1px 1px #FC80CF,
+            0    1px 1px #FC80CF,
+            -1px -0   1px #FC80CF,
+            1px -0   1px #FC80CF,
+            -1px  0   1px #FC80CF,
+            1px  0   1px #FC80CF,
+            -1px -1px 1px #FC80CF,
+            1px -1px 1px #FC80CF,
+            -1px  1px 1px #FC80CF,
+            1px  1px 1px #FC80CF,
+            -1px -1px 1px #FC80CF,
+            1px -1px 1px #FC80CF,
+            -1px  1px 1px #FC80CF,
+            1px  1px 1px #FC80CF;
+}
